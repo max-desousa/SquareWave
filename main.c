@@ -10,7 +10,7 @@
 #include <stdio.h>
 
 /* Include micro tools libraries */
-#include "microtools/dcmotor.h"
+#include "microtools/motor/dc.h"
 
 int main()
   {
